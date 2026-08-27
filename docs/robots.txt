@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://code4virtual.github.io/sitemap.xml
